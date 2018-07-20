@@ -1,0 +1,5 @@
+# Don't track content of these directories
+.ipynb_checkpoints
+
+# Specific file types #
+###################
